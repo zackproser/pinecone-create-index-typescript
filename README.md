@@ -8,6 +8,7 @@ It demonstrates Pinecone client setup in TypeScript and is used for demo and rep
 npm i
 
 export PINECONE_API_KEY=<your-key>
+export PINECONE_INDEX=<your-index-name>
 export AWS_REGION=us-west-2
 
 npm run dev 
