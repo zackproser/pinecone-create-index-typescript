@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@pinecone-database/pinecone": "^2.0.1",
+    "@pinecone-database/pinecone": "^2.2.2",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
